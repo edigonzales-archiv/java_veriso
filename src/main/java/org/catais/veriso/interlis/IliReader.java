@@ -123,7 +123,7 @@ public class IliReader {
 
         // TEMPORARY!!!!!!!!!!
         // delete database schema
-        deletePostgresSchemaAndTables();
+        // deletePostgresSchemaAndTables();
 
         // create database schema
         createPostgresSchemaAndTables();
